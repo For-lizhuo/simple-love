@@ -1,5 +1,5 @@
-##simple love
+## simple love
 
-一个生活记录网站
+一个记录日常的网站
 
 React + NestJS
